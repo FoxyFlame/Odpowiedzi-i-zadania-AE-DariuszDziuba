@@ -1,0 +1,8 @@
+1.A	Pozwala na zdefiniowanie członków, nad którymi nie trzeba się zastanawiać czy tam są i co robią. Nie musimy znać konkretnego typu danej klasy z której dziedziczymy. Jedynie co to trzeba będzie np. nadpisać metody, które tego wymagają, ponieważ podczas tworzenia klasy nie wiedzieliśmy czy będzie ta metoda zapisywać do pliku, czy tablicy.
+	
+1.B	Dzięki interfejsom możemy zdefiniować API do aktualnie potrzebnego oprogramowania bez definiowania jakichkolwiek szczegółów. Dzięki temu, że nie mamy skomplikowanego dziedziczenia tak jak to czasami zdarza się w klasach abstrakcyjnych. I nie jesteśmy ograniczeni do używania tylko jednego interfejsu.
+
+2.	Złożoność obliczeniowa(czasowa): O(log_2n) - logarytm przy podstawie "2" z liczbą logarytmowaną "n"
+	Złożoność pamięciowa: O(1)
+
+3.	Dodany brak powtarzalności.
